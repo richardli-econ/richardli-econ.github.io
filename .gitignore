@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.vite/
+
+# Local tooling (installed per-machine, not shared)
+.node/
+.gh/
+.claude/
+activate.sh
+
+# macOS / editors
+.DS_Store
+*.log
+
+# Original prototype (superseded by src/ components)
+richard-site-prototype.jsx
